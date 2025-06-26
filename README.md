@@ -16,3 +16,4 @@ A smart voice/text assistant that understands and answers student questions usin
 - parser.py - Grammar and parser
 - App.py - Streamlit-based UI
 - requirements.py- all the rquirements for runing
+  {This is only for running locally streamlit does not support speech for online deployment}
