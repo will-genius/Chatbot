@@ -25,10 +25,15 @@ A smart voice/text assistant that understands and answers student questions usin
 
 👥 Team Members
 Wilkister Kawira – C026-01-0727/2023
+
 Mark Denis Mugai – C026-01-0733/2023
+
 Keziah Syokau Kioko – C026-01-0735/2023
+
 Zachary Odhiambo – C026-01-0764/2023
+
 Keith Kinuthia Ndarwa – C026-01-2228/2023
 
 ✍️ Author 
+
 Wilkister Kawira  – Computer Science Student DeKUT
